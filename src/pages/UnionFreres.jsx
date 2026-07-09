@@ -1,12 +1,11 @@
-import React from "react";
-import UFNavbar from "@/components/uf/UFNavbar";
-import UFHero from "@/components/uf/UFHero";
-import UFServices from "@/components/uf/UFServices";
-import UFWhyUs from "@/components/uf/UFWhyUs";
-import UFTestimonials from "@/components/uf/UFTestimonials";
-import UFContact from "@/components/uf/UFContact";
-import UFFooter from "@/components/uf/UFFooter";
-import UFWhatsApp from "@/components/uf/UFWhatsApp";
+import UFNavbar from "@/components/UF/UFNavbar";
+import UFHero from "@/components/UF/UFHero";
+import UFServices from "@/components/UF/UFServices";
+import UFWhyUs from "@/components/UF/UFWhyUs";
+import UFTestimonials from "@/components/UF/UFTestimonials";
+import UFContact from "@/components/UF/UFContact";
+import UFFooter from "@/components/UF/UFFooter";
+import UFWhatsApp from "@/components/UF/UFWhatsApp";
 
 export default function UnionFreres() {
   return (
