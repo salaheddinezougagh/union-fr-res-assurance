@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://union-fr-res-assurance.vercel.app/sitemap.xml
