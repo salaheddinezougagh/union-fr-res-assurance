@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://https://ufassurance.ma/sitemap.xml
+Sitemap: https://ufassurance.ma/sitemap.xml
